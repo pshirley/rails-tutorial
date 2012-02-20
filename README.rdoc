@@ -1,2 +1,0 @@
-Working through Mike Hartl's rails tutorial at http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2
-
